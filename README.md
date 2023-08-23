@@ -6,7 +6,7 @@ This is where I will submit my notebooks from jupyter.
 This is going to be the repository that will hold all of the notebooks that have been created and need to be submitted
 
 ## Folder Structure
-## this is meant to serve as example only 
+## this is meant to serve illustrative purposes only filenames will differ for prjects. [notebooks, data, images, scripts will be named as such] 
 - jupyter-notebooks/
     - README.md <<<[ ## you are here ##]
     - notebooks/
@@ -31,7 +31,6 @@ This is going to be the repository that will hold all of the notebooks that have
         - script1.py
         - script2.py
         - ...
-    - requirements.txt
 
 This structure is going to help keep all of my work organized in a central easy to read and use repository. There may be explanation files or readme files inside of project folders as well. 
 
